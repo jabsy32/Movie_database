@@ -1,11 +1,15 @@
 import { useLocation } from "react-use";
 import { Link } from "react-router-dom";
+import { useEffect } from "react";
 
 const MoviePage = () => {
   const location = useLocation();
   const data = location.state || {};
 
-  console.log(data);
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   if (!data) {
     return <p className="text-white">Movie not found</p>;
   }
