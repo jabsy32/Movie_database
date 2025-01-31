@@ -1,3 +1,4 @@
+#### A Movie Application
 
 ![Screenshot 2025-01-31 201121](https://github.com/user-attachments/assets/2cfb42c8-91d3-4f28-befc-e4aa8e48aef7)
 
@@ -6,7 +7,7 @@
 - Appwrite
 - Tailwind CSS
 
-🔋 ### Features
+ ### 🔋 Features
 👉 Browse All Movies: Explore a wide range of movies available on the platform.
 
 👉 Search Movies: Easily search for specific movies using a search function.
@@ -19,7 +20,7 @@
 
 ...and many more, including code architecture and reusability.
 
-🤸 ### Quick Start
+### 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
 
 ## Prerequisites
@@ -32,3 +33,10 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/jabsy32/Movie_database.git
 cd moodflix
+```
+
+## Credits
+
+Special thanks to [JS Mastery] https://github.com/adrianhajdin for their tutorial on creating this application. You can find the original tutorial [here](https://www.youtube.com/watch?v=dCLhUialKPQ).
+
+
