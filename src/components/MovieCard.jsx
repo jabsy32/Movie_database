@@ -12,7 +12,7 @@ const MovieCard = ({
   };
 
   return (
-    <div className="movie-card cursor-pointer" onClick={handleOnClick}>
+    <div className="movie-card" onClick={handleOnClick}>
       <img
         src={
           poster_path

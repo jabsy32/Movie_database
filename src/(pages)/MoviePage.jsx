@@ -1,4 +1,3 @@
-import React from "react";
 import { useLocation } from "react-use";
 import { Link } from "react-router-dom";
 

@@ -62,10 +62,12 @@
 
     & ul {
       @apply flex flex-row overflow-y-auto gap-5 -mt-10 w-full hide-scrollbar;
+
     }
 
     & ul li {
       @apply min-w-[230px] flex flex-row items-center;
+
     }
 
     & ul li p {
@@ -74,6 +76,7 @@
 
     & ul li img {
       @apply w-[127px] h-[163px] rounded-lg object-cover -ml-3.5;
+      cursor: pointer;
     }
   }
 
@@ -113,11 +116,13 @@
 
     & ul {
       @apply grid grid-cols-1 gap-5 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4;
+
     }
   }
 
   .movie-card {
     @apply bg-dark-100 p-5 rounded-2xl shadow-inner shadow-light-100/10;
+    cursor: pointer;
 
     & img {
       @apply rounded-lg h-auto w-full;
