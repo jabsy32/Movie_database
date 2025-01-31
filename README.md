@@ -1,4 +1,4 @@
-#### A Movie Application
+#                  A Movie Application
 
 ![Screenshot 2025-01-31 201121](https://github.com/user-attachments/assets/2cfb42c8-91d3-4f28-befc-e4aa8e48aef7)
 
@@ -7,7 +7,7 @@
 - Appwrite
 - Tailwind CSS
 
- ### 🔋 Features
+ ## 🔋 Features
 👉 Browse All Movies: Explore a wide range of movies available on the platform.
 
 👉 Search Movies: Easily search for specific movies using a search function.
@@ -20,10 +20,10 @@
 
 ...and many more, including code architecture and reusability.
 
-### 🤸 Quick Start
+## 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
 
-## Prerequisites
+### Prerequisites
 Make sure you have the following installed on your machine:
 - Git
 - Node.js
