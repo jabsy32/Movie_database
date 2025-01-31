@@ -20,7 +20,11 @@ const TrendingMovies = ({ movies = [] }) => {
         <h2>Trending Movies</h2>
         <ul>
           {movies.map((movie, index) => (
-            <li key={movie.$id} onClick={() => handleOnClick(movie.title)}>
+            <li
+              key={movie.$id}
+              onClick={() => handleOnClick(movie.title)}
+              className="cursor-pointer"
+            >
               <p className="pr-5">{index + 1}</p>
               <img src={movie.poster_url} alt={movie.title} />
             </li>
