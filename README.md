@@ -18,6 +18,8 @@
 
 👉 Responsiveness: Fully responsive design that works seamlessly across devices.
 
+👉 Clickable Movies: Click on movies to discover detailed information about them, including synopsis, ratings, and more.
+
 ...and many more, including code architecture and reusability.
 
 ## 🤸 Quick Start
