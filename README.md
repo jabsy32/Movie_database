@@ -37,6 +37,6 @@ cd moodflix
 
 ## Credits
 
-Special thanks to [JS Mastery] https://github.com/adrianhajdin for their tutorial on creating this application. You can find the original tutorial [here](https://www.youtube.com/watch?v=dCLhUialKPQ).
+Special thanks to [JS Mastery](https://github.com/adrianhajdin) for their tutorial on creating this application. You can find the original tutorial [here](https://www.youtube.com/watch?v=dCLhUialKPQ).
 
 
